@@ -1,0 +1,9 @@
+beautifulsoup4
+haystack-ai
+html5lib
+langchain_ollama
+lxml
+ollama-haystack
+pandas
+sentence-transformers
+tabulate
