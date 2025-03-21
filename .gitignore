@@ -1,3 +1,5 @@
 Data
 .venv
 sentence-transformers
+llama-32-1B-model
+llama-32-1B-tokenizer
